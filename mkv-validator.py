@@ -4,6 +4,7 @@
 #
 # MKV validator wrapper - recursively validate integrity of mkv files
 # using mkvalidator.exe storing the results in a log file. 
+#
 # Copyright 2016 Denton Davenport
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -24,7 +25,6 @@
 # this script expects the 'mkvalidator.exe' to be in the same directory
 # mkv_results.log writes out entire log in same directory
 #_
-
 
 import os, sys, subprocess, fnmatch, re
 import argparse, inspect, time, datetime
