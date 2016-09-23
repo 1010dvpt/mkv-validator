@@ -9,7 +9,7 @@ recursively validate the integrity of your mkv file library and store the result
 - python 3.5.2 from python.org [download](https://www.python.org/downloads/)
 
 ## Setup
-- Install [Python](https://www.python.org/downloads/) 3.5.3
+- Install [Python](https://www.python.org/downloads/) 3.5.2
 - Download or clone mkv-validator.py from this repo
 ```
 git clone git@github.com:1010dvpt/mkv-validator.git
