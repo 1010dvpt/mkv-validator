@@ -58,7 +58,7 @@ ERR066: The SeekPoint at 87 references an unknown Cues at 8211952374
 WRN800: The segment has Clusters but no Cues section (bad for seeking)
 WRN0D0: There are 5244 bytes of void data
 
-Checking: e:\\mkvs\T\tv-great-show.mkv
+Checking: E:\\mkvs\T\tv-great-show.mkv
 mkvalidator 0.5.0: the file appears to be valid
 ```
 ### Logging
