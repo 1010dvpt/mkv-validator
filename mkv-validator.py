@@ -26,8 +26,15 @@
 # mkv_results.log writes out entire log in same directory
 #_
 
-import os, sys, subprocess, fnmatch, re
-import argparse, inspect, time, datetime
+import os
+import sys
+import re
+import subprocess
+import fnmatch
+import argparse
+import inspect
+import time
+import datetime
 
 ### global values
 pwd = os.getcwd()
